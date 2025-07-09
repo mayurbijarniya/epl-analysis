@@ -33,9 +33,5 @@ Analyze English Premier League (EPL) match and event data across three seasons (
    ```
 3. Run the R Markdown or notebooks for analysis and plots.
 
-## Credits
-- **Author:** Mayur Bijarniya
-- Open to contributions & feedback!
-
 ## License
 MIT License (see LICENSE) 
