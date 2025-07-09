@@ -47,5 +47,5 @@ Thumbs.db
 # *.xlsx
 
 # Output files that can be regenerated
-*.html
+# *.html  # Removed - HTML output should be included
 *.pdf 
