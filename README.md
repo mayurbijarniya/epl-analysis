@@ -2,6 +2,8 @@
 
 Analyze English Premier League (EPL) match and event data across three seasons (2021-22, 2022-23, 2023-24) using R and Jupyter Notebooks.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Analysis-blue?style=for-the-badge&logo=github)](https://epl-analysis.vercel.app)
+
 ## Features
 - Match & event data for 3 EPL seasons
 - Goal, card, substitution, and extra time analysis
@@ -32,6 +34,9 @@ Analyze English Premier League (EPL) match and event data across three seasons (
    install.packages(c("tidyverse", "ggplot2", "BSDA"))
    ```
 3. Run the R Markdown or notebooks for analysis and plots.
+
+## Live Demo
+**[View Live Analysis](https://epl-analysis.vercel.app)** - See the complete EPL analysis with interactive charts and visualizations.
 
 ## License
 MIT License (see LICENSE) 
