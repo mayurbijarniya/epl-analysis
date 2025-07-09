@@ -1,0 +1,51 @@
+# R specific files
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.Rprofile
+
+# R Markdown cache
+*_cache/
+*_files/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Large data files (if needed)
+# *.csv
+# *.xlsx
+
+# Output files that can be regenerated
+*.html
+*.pdf 
